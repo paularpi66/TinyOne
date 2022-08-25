@@ -1,0 +1,94 @@
+fonts:
+
+PTSans- regular,bold	-font-family: 'PT Sans', sans-serif;
+Helveticaneue- bold		-
+
+
+
+
+colors:
+
+black- #010101
+ash- #898989
+yellow- #fcdb00
+white- #ffffff
+
+
+
+
+
+
+common:
+
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #010101;
+
+
+
+
+
+responsiveness:
+
+
+header----------------
+				xxl/xl/lg							md							sm/col
+menu			22px								22px						20px
+padding t-b		20px								20px						10px
+
+ 
+
+slider----------------
+				xxl/xl/lg							md							sm/col
+h1				32px								32px						25px
+h2				20px								20px						18px
+p 				16px								16px						16px
+icon			42px								42px						35px
+padd-b			100px								100px						60px
+
+
+
+
+feature top---------------
+				xxl/xl/lg							md							sm/col
+padd-t			100 								80							50
+padd-b			120									100 						70
+h1				32									32 							25	
+p				20									20 							17
+
+feature bottom---------------
+				xxl/xl/lg							md							sm/col
+mar-top			85									60							25
+
+
+
+
+
+contact top----------------
+				xxl/xl/lg							md							sm/col
+padd-t			80 									60							30
+padd-b			100									80 							50
+
+contact mid----------------
+				xxl/xl/lg							md							sm/col
+padd-t			15 									10							5
+padd-b			30									20							15
+
+box pad t-b		10/15								10/15						5/15
+btn pad t-b		10/30								same						5/25
+
+
+contact bottom----------------
+				xxl/xl/lg							md							sm/col
+mar-t			30 									15							30
+icon			42px								42px						35px
+
+
+
+
+
+
+footer----------------
+				xxl/xl/lg							md							sm/col
+padd-b			60									40 							30

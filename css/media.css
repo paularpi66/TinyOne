@@ -1,0 +1,237 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header start   */
+    header {
+        padding: 10px 0 !important;
+    }
+    .menu ul li a {
+        padding: 10px 0 0!important;
+        font-size: 20px;
+        text-align: right;
+    }
+    /*slider start*/
+    .slider {
+        padding-bottom: 60px;
+    }
+    .c_indicator {
+        bottom: -60px;
+    }
+    .c_indicator [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .s_text {
+        margin-top: 0;
+    }
+    .s_text h1 {
+        font-size: 25px;
+    }
+    .s_text h2 {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p {
+        margin-bottom: 20px;
+    }
+    .s_icon ul li {
+        margin-right: 15px !important;
+    }
+    .s_icon ul li i {
+        font-size: 35px;
+    }
+    /*feature start*/
+    .feature {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .c_h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p {
+        font-size: 17px;
+    }
+    .f_single{
+        text-align: center;
+        margin-top: 25px;
+    }
+    /*contact start*/
+    .contact{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .contact_mid {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .cus_box input {
+        padding: 5px 15px;
+    }
+    .cus_button {
+        margin-top: 20px;
+        padding: 5px 25px;
+    }
+    .contact_bottom ul li i {
+        margin-right: 15px;
+        font-size: 35px;
+
+    }
+    footer {
+        padding-bottom: 30px;
+    }
+    .f_address {
+        padding-bottom: 10px;
+        padding-left: 39px;
+    }
+    .f_links:nth-child(3) {
+        margin-left: 0;
+    }
+    .f_links:nth-child(5) {
+        margin-left: 15%;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+    .menu ul li a {
+        padding: 10px 0 0!important;
+        font-size: 20px;
+        text-align: right;
+    }
+    /*slider start*/
+    .slider {
+        background-color: #fcdb00;
+        padding-bottom: 60px;
+    }
+    .c_indicator {
+        bottom: -60px;
+    }
+    .c_indicator [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .s_text {
+        margin-top: 0;
+    }
+    .s_text h1 {
+        font-size: 25px;
+    }
+    .s_text h2 {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p {
+        margin-bottom: 20px;
+    }
+    .s_icon ul li {
+        margin-right: 20px !important;
+    }
+    .s_icon ul li i {
+        font-size: 35px;
+    }
+    /*feature start*/
+    .feature {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .c_h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p {
+        font-size: 17px;
+    }
+    .f_single{
+        text-align: center;
+        margin-top: 25px;
+    }
+    /*contact start*/
+    .contact{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .contact_mid {
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+    .cus_box input {
+        padding: 5px 15px;
+    }
+    .cus_button {
+        margin-top: 20px;
+        padding: 5px 25px;
+    }
+    .contact_bottom ul li i {
+        margin-right: 15px;
+        font-size: 35px;
+    }
+    /*footer start*/
+    footer {
+        padding-bottom: 40px;
+    }
+    .f_address {
+        margin-right: -40px;
+    }
+
+
+}
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+    .menu ul li a {
+        padding: 10px 0 0!important;
+        text-align: right;
+    }
+    /*feature start*/
+    .feature {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .f_single {
+        margin-top: 60px;
+    }
+    /*contact start*/
+    .contact{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .contact_mid {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    .contact_bottom {
+        margin-top: 15px;
+    }
+    footer {
+        padding-bottom: 50px;
+    }
+
+}
+
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+/*Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
